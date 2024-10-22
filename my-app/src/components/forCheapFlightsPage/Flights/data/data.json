@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bali",
+        "price": "$500"
+    },
+    {
+        "name": "Florida",
+        "price": "$350"
+    },
+    {
+        "name": "Miami",
+        "price": "$400"
+    },
+    {
+        "name": "Las Vegas",
+        "price": "$450"
+    },
+    {
+        "name": "Hawaii",
+        "price": "$600"
+    },
+    {
+        "name": "Europe",
+        "price": "$700"
+    }
+]
